@@ -1,0 +1,5 @@
+Host myserver
+    HostName 172.24.30.48
+    User chemben            
+    IdentityFile ~/.ssh/id_rsa
+    Port 22                 
